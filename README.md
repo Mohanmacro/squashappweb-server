@@ -1,0 +1,2 @@
+# squashappweb-server
+squashweb-server
